@@ -1,0 +1,81 @@
+body {
+    background-image: url(/foto/backgroud.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    text-align: center;
+    color: rgba(255, 228, 73, 0.911);
+    border: 1px solid;
+}
+    b {
+        list-style: none;
+        font-variant: small-caps;
+        font-size: 50px;        
+    }
+
+.div-pembungkus {
+    margin: 10px 0px;
+    padding: 10px 10px;
+    height: 79vh;
+}
+
+    .p-isi-1{
+        display: flex;
+        justify-content: space-around;
+        margin-top: 23vh;
+    }
+
+    .p-isi-2 {
+        display: flex;
+        justify-content: space-around;
+    }
+
+        .img-space {
+            width: 45vh;
+            height: 25vh;
+            border: 2px solid rgb(11, 73, 68);
+            margin: 10px 0px;
+        }
+
+        .img-duit {
+            width: 45vh;
+            height: 25vh;
+            border: 2px solid rgb(11, 73, 68);
+            margin: 10px 0px;
+        }
+
+        .img-mobil {
+            width: 45vh;
+            height: 25vh;
+            border: 2px solid rgb(11, 73, 68);
+            margin: 10px 0px;
+        }
+        
+        button {
+        
+            background-color: rgb(177, 144, 0);
+            text-decoration: none;
+            cursor: pointer;
+            font-size: 14px;
+            padding: 2vh 1px;
+            border-radius: 5px;
+        }
+
+            a {
+                text-decoration: none;
+                color: rgb(255, 255, 255);
+                padding: 2vh 6vh;
+                font-size: 2.5vh;
+            }
+
+
+
+
+
+
+
+
+
+
